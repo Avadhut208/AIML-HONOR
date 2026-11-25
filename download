@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+employees.csv
+employees.db*
+.venv/
